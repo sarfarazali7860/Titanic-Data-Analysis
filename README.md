@@ -527,3 +527,6 @@ BS Information Technology Student
 
 This project was created as part of my learning journey in **Data Analysis and Data Science** and is intended for educational and portfolio purposes.
 
+## EDA Improvements
+
+This project explores the Titanic dataset using Python and pandas.
